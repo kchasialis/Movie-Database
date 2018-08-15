@@ -3,8 +3,8 @@ It includes 10 queries in a movie database.Each one of them is described with a 
 
 All of them produce the right results since they were checked by a script that validates whether they are right or wrong.
 
-This is a picture link that shows the schema for this database.
+Information Schema for this database:
 
-https://imgur.com/Htzt68R
+![Screenshot](schema.png)
 
 
